@@ -41,7 +41,7 @@ def show_frame(frame):
         #            bbox_inches='tight') # comment out to speed up
     plt.pause(frame["frame_render_time"]*5) # required
 
-file_name = "2022-06-25T00_38_07.117925.json"
+file_name = "2022-07-03T165157.057483.json"
 file_path = Path("records/") / file_name
 
 record_data = read_json_file(file_path)

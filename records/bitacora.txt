@@ -1,0 +1,6 @@
+2022-07-03T
+1. 16:01 Sin encapsulado
+2. 16:11 Failed to ignite
+3. 16:13 PVC After heated
+4. 16:51 PVCHT
+Others are failed
